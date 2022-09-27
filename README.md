@@ -1,4 +1,4 @@
-### Hi, I'm Kale
+### Hi, I'm Kale!
 
 <!--
 **kalefed/kalefed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### Who Am I?
 I'm a computer science student, studying at Queen's Univeristy with a focus in Artificial Intelligence. 
