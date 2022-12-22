@@ -1,4 +1,4 @@
-### Hi, I'm Kale!
+### Hi, I'm Kale (she/they)!
 
 <!--
 **kalefed/kalefed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
