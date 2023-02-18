@@ -1,5 +1,7 @@
-### Hi, I'm Kale (she/they)!
+## Hi, I'm Kale (she/they)!
 
+- 🔭 I’m currently working on my portfolio website
+- 🌱 I’m currently learning React
 <!--
 **kalefed/kalefed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
