@@ -1,4 +1,4 @@
-# Hi there! I'm kale 👋
+# Hi there! I'm kale
 
 <img src="https://media4.giphy.com/media/z1AumTBpH3RoeKsaG6/giphy.gif?cid=ecf05e47oujyn5vkjx1i6er8yiadezrn813ibi7w90dzb0pp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70" height="70" />
 
