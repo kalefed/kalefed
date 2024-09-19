@@ -9,7 +9,5 @@ I am currently a Computer Science Student, with a focus in Artificial Intelligen
 
 📧 **Get in Touch**: Feel free to reach out to me at [kaleighfeder@gmail.com](mailto:kaleighfeder@gmail.com). I'm always open to interesting conversations and collaborations.
 
-🚀 **Current Projects**: I'm currently working on my portfolio website, striving to make it a reflection of my skills and passions.
-
-🧠 **Learning Journey**: I'm constantly expanding my knowledge, currently delving into the world of Next.js and Tailwind to continue developing my front-end development skills.
+🚀 **Current Projects**: I'm currently working on a full stack book log application, saga.
 
