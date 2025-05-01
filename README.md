@@ -1,13 +1,8 @@
-# Hi there! I'm kale
+### Hi there! I'm kale <img src="https://media4.giphy.com/media/z1AumTBpH3RoeKsaG6/giphy.gif?cid=ecf05e47oujyn5vkjx1i6er8yiadezrn813ibi7w90dzb0pp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35" height="35" />
 
-<img src="https://media4.giphy.com/media/z1AumTBpH3RoeKsaG6/giphy.gif?cid=ecf05e47oujyn5vkjx1i6er8yiadezrn813ibi7w90dzb0pp&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70" height="70" />
+I'm [**Kaleigh**]([https://gazijarin.com](https://kaleighfeder.vercel.app/)), a Full Stack developer and CS (AI major) new grad from Queen's University located in Kitchener. I've previously interned at Statistics Canada and the Canada Revenue Agency.
 
-I am currently a Computer Science Student, with a focus in Artificial Intelligence at Queen's University. I've taken a variety of courses such as relativity, video game design and data structures. I am an aspiring full stack developer who loves combining my passion for art and design with programming! I spend my free time reading books, creating art and watching anything to do with Star Wars.
+What excites me about Full Stack development is bridging the gap between my creative and technical sides with work that makes a big impact. Currently, I'm on the hunt for new grad developer opportunities.
 
-
-📚 **Interests**: In my free time, you'll often find me immersed in books, expressing my creativity through various art forms, and indulging in all things Star Wars.
-
-📧 **Get in Touch**: Feel free to reach out to me at [kaleighfeder@gmail.com](mailto:kaleighfeder@gmail.com). I'm always open to interesting conversations and collaborations.
-
-🚀 **Current Projects**: I'm currently working on a full stack book log application, saga.
-
+#### Let's connect!
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/kaleighfeder/)
